@@ -26,11 +26,11 @@ Running Tests
 
 To open the Cypress Test Runner:
 
- npx cypress open
+   npx cypress open
 
- To run tests in headless mode:
+   To run tests in headless mode:
 
- npx cypress run
+   npx cypress run
 
 Video Demo
 
