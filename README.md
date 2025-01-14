@@ -24,10 +24,18 @@ This repository contains automated tests for Swag Labs, built using Cypress with
 
 Running Tests
 
-    To open the Cypress Test Runner:
+To open the Cypress Test Runner:
 
-npx cypress open
+ npx cypress open
 
-To run tests in headless mode:
+ To run tests in headless mode:
 
-npx cypress run
+ npx cypress run
+
+Video Demo
+
+Watch the narrated walkthrough of the tests here: (https://share.icloud.com/photos/0076Unq7ZWkIhEGQQ3NOSfB7w)
+
+Author
+
+Ayo
