@@ -22,7 +22,7 @@ This repository contains automated tests for Swag Labs, built using Cypress with
 
     npm install
 
-Running Tests
+## Running Tests
 
 To open the Cypress Test Runner:
 
