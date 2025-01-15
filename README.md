@@ -34,7 +34,7 @@ To open the Cypress Test Runner:
 
 Video Demo
 
-Watch the narrated walkthrough of the tests here: (https://share.icloud.com/photos/0076Unq7ZWkIhEGQQ3NOSfB7w)
+Watch the narrated walkthrough of the tests here: (https://youtu.be/YDAoDkDOJb0)
 
 Author
 
